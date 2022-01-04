@@ -1,0 +1,11 @@
+{
+  "LoggerConfig": {
+    "TimeFormat": "hh:mm:ss",
+    "FileName": "hh.mm.ss dd.MM.yyyy",
+    "FileExtension": ".txt",
+    "DirectoryPath": "./Logs/",
+    "BackupDirectoryPath": "./Backup/",
+    "BackupFileName": "hh.mm.ss.fff dd.MM.yyyy",
+    "BackupLine": "10"
+  }
+}
